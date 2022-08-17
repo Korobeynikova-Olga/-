@@ -23,6 +23,6 @@ GitHub - это:
 * имеет огромный архив разичного кода
 
 ## Несколько команд
-git pull
-git push
-pull reguest
+1. git pull
+2. git push
+3. pull reguest
